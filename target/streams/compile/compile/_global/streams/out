@@ -1,0 +1,59 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:8:30: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.generic.auto._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:9:17: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.parser[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:10:24: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.syntax._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/components/StudentsDAO.scala:3:46: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{Marks, StudentDetails, StudentMarks, StudentMarksTable, StudentTable}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/components/StudentsDAO.scala:3:69: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{Marks, StudentDetails, StudentMarks, StudentMarksTable, StudentTable}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/components/StudentsDAO.scala:8:17: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.Json[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/components/StudentsDAO.scala:9:30: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.generic.auto._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/components/StudentsDAO.scala:10:24: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.syntax._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/handler/StudentServiceHandler.scala:21:30: class ActorMaterializer in package stream is deprecated (since 2.6.0): The Materializer now has all methods the ActorMaterializer used to have[0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val materializer: ActorMaterializer[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/persistence/dao/StudentMarksTable.scala:22:6: method columnToOptionColumn in trait API is deprecated (since 3.0): Use an explicit conversion to an Option column with `.?`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (studentId, subjectId)[0m
+[0m[[0m[33mwarn[0m] [0m[0m     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m10 warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:8:30: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.generic.auto._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:9:17: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.parser[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/actor/StudentActor.scala:10:24: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport io.circe.syntax._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/routes/StudentService.scala:7:46: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{StudentDetails, StudentDetailsRequest, UpdateStudentDetailsRequest, UpdateStudentEmailRequest, UpdateStudentMarksRequest}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/routes/StudentService.scala:7:85: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{StudentDetails, StudentDetailsRequest, UpdateStudentDetailsRequest, UpdateStudentEmailRequest, UpdateStudentMarksRequest}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/routes/StudentService.scala:7:114: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{StudentDetails, StudentDetailsRequest, UpdateStudentDetailsRequest, UpdateStudentEmailRequest, UpdateStudentMarksRequest}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/routes/StudentService.scala:7:141: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.knoldus.template.persistence.dao.{StudentDetails, StudentDetailsRequest, UpdateStudentDetailsRequest, UpdateStudentEmailRequest, UpdateStudentMarksRequest}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                                                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/routes/StudentService.scala:19:15: private method studentPostRoutes in trait StudentService is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private def studentPostRoutes(actor: ActorRef): Route = {[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/datatroops/SlickWithAkkaHttp/src/main/scala/com/knoldus/template/handler/StudentServiceHandler.scala:21:30: class ActorMaterializer in package stream is deprecated (since 2.6.0): The Materializer now has all methods the ActorMaterializer used to have[0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val materializer: ActorMaterializer[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 warnings found[0m

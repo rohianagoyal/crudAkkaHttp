@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/knoldus/Template/SlickWithAkkaHttp/src/main/resources/logback.xml,/home/knoldus/Template/SlickWithAkkaHttp/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/knoldus/Template/SlickWithAkkaHttp/src/main/resources/application.conf,/home/knoldus/Template/SlickWithAkkaHttp/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/knoldus/Template/SlickWithAkkaHttp/src/main/resources/db/migration/V1__database_queries.sql,/home/knoldus/Template/SlickWithAkkaHttp/target/scala-2.12/classes/db/migration/V1__database_queries.sql)[0m
